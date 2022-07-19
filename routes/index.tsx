@@ -12,8 +12,8 @@ export default function Home() {
         alt="the fresh logo: a sliced lemon dripping with juice"
       />
       <p class={tw`my-6`}>
-        Welcome to `fresh`. Try update this message in the ./routes/index.tsx
-        file, and refresh.
+        Welcome to `fresh` again. Try update this message in the
+        ./routes/index.tsx file, and refresh.
       </p>
       <Counter start={0} />
     </div>
